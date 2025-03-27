@@ -15,8 +15,8 @@
          "context": [""]
         },
         {"tag": "query",
-         "patterns": ["What is Simplilearn?"],
-         "responses": ["Simplilearn is the popular online Bootcamp & online courses learning platform "],
+         "patterns": ["What is Your Name ?"],
+         "responses": ["My name is Maride Harshith"],
          "context": [""]
         } 
     ]}
